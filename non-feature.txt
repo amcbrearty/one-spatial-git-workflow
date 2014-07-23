@@ -1,3 +1,3 @@
-Other development which will definitely (hopefully_ conflict on master now related to both of the demo feature branches.
+Other development on master unrelated to either of the demo feature branches.
 
-YEAH!
+Hobbit change to conflict with hairy.
